@@ -12,4 +12,5 @@
 int x = 10;
 int y = 10;
 Console.WriteLine($"Equation: {x}+{y} = {x+y:p}");
+
 //  output : P هنا هيبقي نسبه مؤيه عشان بتعرعض الرقم علي الاساس نسبه مؤيه
