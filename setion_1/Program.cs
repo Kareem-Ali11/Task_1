@@ -13,5 +13,5 @@ int cost= priceSmall+ priceLarge;//وبعدين هنا حسب التكلفه ا�
 double Tax= (6 *cost)/100;// وهنا حسب الضريبه 
 double totalPrice =Tax+cost;// وهنا جمع بقي كلو مع بعض
 
-Console.WriteLine($" Total estimate: {totalPrice} \n This estimate is valid for 30 days");// وهنا الحساب بتاع اليوزر
+Console.WriteLine($" Total estimate: ${totalPrice} \n This estimate is valid for 30 days");// وهنا الحساب بتاع اليوزر
 
